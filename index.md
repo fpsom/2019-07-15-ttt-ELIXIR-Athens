@@ -256,90 +256,91 @@ Finally, this workshop is possible thanks to the collaboration of the following 
   <div class="col-md-6">
     <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome </td> </tr>
-      <tr> <td>09:15</td> <td>How Learning Works: The Importance of Practice </td> </tr>
-      <tr> <td>10:20</td> <td>How Learning Works: Expertise and Instruction </td> </tr>
-      <tr> <td>11:10</td> <td>Morning Coffee </td> </tr>
-      <tr> <td>11:25</td> <td>How Learning Works: Working Memory and Cognitive Load </td> </tr>
-      <tr> <td>12:15</td> <td>Building Teaching Skill: Getting Feedback </td> </tr>
-      <tr> <td>12:35</td> <td>Lunch </td> </tr>
-      <tr> <td>13:35</td> <td>Creating a Positive Learning Environment: Motivation and Demotivation </td> </tr>
-      <tr> <td>14:40</td> <td>Creating a Positive Learning Environment: Mindset </td> </tr>
-      <tr> <td>15:20</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:35</td> <td>Building Teaching Skill: The Importance of Practice </td> </tr>
+      <tr> <td>12:00</td> <td>Welcome </td> </tr>
+      <tr> <td>12:30</td> <td>How Learning Works: The Importance of Practice </td> </tr>
+      <tr> <td>13:30</td> <td>How Learning Works: Expertise and Instruction </td> </tr>
+      <tr> <td>14:30</td> <td>Afternoon Coffee </td> </tr>
+      <tr> <td>15:00</td> <td>How Learning Works: Working Memory and Cognitive Load </td> </tr>
+      <tr> <td>15:45</td> <td>Building Teaching Skill: Getting Feedback </td> </tr>
       <tr> <td>16:45</td> <td>Wrap-Up and Homework for Tomorrow </td> </tr>
-      <tr> <td>17:05</td> <td>Finish </td> </tr>
+      <tr> <td>17:00</td> <td>Finish </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>09:10</td> <td>Building Teaching Skill: Lesson Study </td> </tr>
-      <tr> <td>10:05</td> <td>Building Teaching Skill: Live Coding </td> </tr>
-      <tr> <td>11:05</td> <td>Morning Coffee </td> </tr>
-      <tr> <td>11:20</td> <td>Building Teaching Skill: Performance Revised </td> </tr>
-      <tr> <td>12:00</td> <td>Lunch </td> </tr>
-      <tr> <td>13:00</td> <td>The Carpentries: Workshop Introductions </td> </tr>
-      <tr> <td>14:10</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>15:15</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:30</td> <td>The Carpentries: Teaching Practices </td> </tr>
-      <tr> <td>16:00</td> <td>Afternoon Wrap-Up </td> </tr>
-      <tr> <td>16:45</td> <td>Finish </td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3>Day 2</h3>
-    <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>09:10</td> <td>Building Teaching Skill: Lesson Study </td> </tr>
-      <tr> <td>10:05</td> <td>Building Teaching Skill: Live Coding </td> </tr>
-      <tr> <td>11:05</td> <td>Morning Coffee </td> </tr>
-      <tr> <td>11:20</td> <td>Building Teaching Skill: Performance Revised </td> </tr>
-      <tr> <td>12:00</td> <td>Lunch </td> </tr>
-      <tr> <td>13:00</td> <td>The Carpentries: Workshop Introductions </td> </tr>
-      <tr> <td>14:10</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>15:15</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:30</td> <td>The Carpentries: Teaching Practices </td> </tr>
-      <tr> <td>16:00</td> <td>Afternoon Wrap-Up </td> </tr>
-      <tr> <td>16:45</td> <td>Finish </td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3>Day 2</h3>
-    <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>09:10</td> <td>Building Teaching Skill: Lesson Study </td> </tr>
-      <tr> <td>10:05</td> <td>Building Teaching Skill: Live Coding </td> </tr>
-      <tr> <td>11:05</td> <td>Morning Coffee </td> </tr>
-      <tr> <td>11:20</td> <td>Building Teaching Skill: Performance Revised </td> </tr>
-      <tr> <td>12:00</td> <td>Lunch </td> </tr>
-      <tr> <td>13:00</td> <td>The Carpentries: Workshop Introductions </td> </tr>
-      <tr> <td>14:10</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>15:15</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:30</td> <td>The Carpentries: Teaching Practices </td> </tr>
-      <tr> <td>16:00</td> <td>Afternoon Wrap-Up </td> </tr>
-      <tr> <td>16:45</td> <td>Finish </td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3>Day 2</h3>
-    <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>09:10</td> <td>Building Teaching Skill: Lesson Study </td> </tr>
-      <tr> <td>10:05</td> <td>Building Teaching Skill: Live Coding </td> </tr>
-      <tr> <td>11:05</td> <td>Morning Coffee </td> </tr>
-      <tr> <td>11:20</td> <td>Building Teaching Skill: Performance Revised </td> </tr>
-      <tr> <td>12:00</td> <td>Lunch </td> </tr>
-      <tr> <td>13:00</td> <td>The Carpentries: Workshop Introductions </td> </tr>
-      <tr> <td>14:10</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>15:15</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:30</td> <td>The Carpentries: Teaching Practices </td> </tr>
-      <tr> <td>16:00</td> <td>Afternoon Wrap-Up </td> </tr>
-      <tr> <td>16:45</td> <td>Finish </td> </tr>
+      <tr> <td>09:10</td> <td>Creating a Positive Learning Environment: Motivation and Demotivation </td> </tr>
+      <tr> <td>10:15</td> <td>Creating a Positive Learning Environment: Mindset </td> </tr>
+      <tr> <td>11:00</td> <td>Morning Coffee </td> </tr>
+      <tr> <td>11:30</td> <td>Building Teaching Skill: The Importance of Practice </td> </tr>
+      <tr> <td>12:40</td> <td>Building Teaching Skill: Lesson Study </td> </tr>
+      <tr> <td>13:30</td> <td>Lunch </td> </tr>
+      <tr> <td>14:30</td> <td>Building Teaching Skill: Live Coding </td> </tr>
+      <tr> <td>15:40</td> <td>Afternoon Coffee </td> </tr>
+      <tr> <td>16:00</td> <td>Building Teaching Skill: Performance Revised </td> </tr>
+      <tr> <td>16:40</td> <td>Afternoon Wrap-Up </td> </tr>
+      <tr> <td>17:00</td> <td>Finish </td> </tr>
     </table>
   </div>
 </div>
+
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 3</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
+      <tr> <td>09:10</td> <td>The Carpentries: Workshop Introductions </td> </tr>
+      <tr> <td>10:00</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td>11:15</td> <td>Morning Coffee </td> </tr>
+      <tr> <td>11:45</td> <td>The Carpentries: Teaching Practices </td> </tr>
+      <tr> <td>12:15</td> <td>Instructor Training Wrap-Up </td> </tr>
+      <tr> <td>13:00</td> <td>Finish </td> </tr>
+      <tr> <td>13:30</td> <td>Lunch </td> </tr>
+      <tr> <td>14:30</td> <td>Welcome to the 4OSS workshop</td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>15:30</td> <td>Afternoon Coffee </td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>17:00</td> <td>Finish </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 4</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td>Welcome back </td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>11:00</td> <td>Morning Coffee </td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>12:30</td> <td>Lunch </td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>15:30</td> <td>Afternoon Coffee </td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>17:00</td> <td>Finish </td> </tr>
+    </table>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 5</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td>Welcome back</td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>11:00</td> <td>Morning Coffee </td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>12:00</td> <td>Finish </td> </tr>
+    </table>
+  </div>
+</div>
+
+
 
 <!--
   ETHERPAD
