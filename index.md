@@ -53,13 +53,13 @@ This workshop is funded by ELIXIR. The "_ELIXIR-GR: Managing and Analysing Life 
 
 <div class="sponsor-logos">
   <a href="https://www.elixir-europe.org/" title="ELIXIR">
-    <img style="margin-right:50px" alt="ELIXIR" src="fig/ELIXIR-logo.png" width="100"/>
+    <img style="margin-right:50px" alt="ELIXIR" src="fig/ELIXIR-logo.png" width="120"/>
   </a>
   <a href="https://www.elixir-greece.org/" title="ELIXIR-GR">
-    <img style="margin-right:50px" alt="ELIXIR-GR" src="fig/ELIXIR-GR-Logo.png" width="100"/>
+    <img style="margin-right:50px" alt="ELIXIR-GR" src="fig/ELIXIR-GR-Logo.png" width="120"/>
   </a>
   <a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate" title="ELIXIR EXCELERATE">
-    <img style="margin-right:50px" alt="EXCELERATE" src="fig/excelerate_logo.png" width="100"/>
+    <img style="margin-right:50px" alt="EXCELERATE" src="fig/excelerate_logo.png" width="120"/>
   </a>
   <a href="" title="Funding Institutions">
     <img style="margin-right:50px" alt="Funders" src="fig/FundersLogos.png" width="400"/>
