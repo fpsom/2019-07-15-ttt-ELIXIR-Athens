@@ -2,19 +2,19 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "FIXME"    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "FIXME"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
-country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
-language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["FIXME"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-contact: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+venue: "Information Management Systems Institute (IMSI), Athena Research Center"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Artemidos 6 & Epidavrou, 15125, Marousi, Greece"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+country: "gr"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
+language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
+latlng: "38.036470, 23.802500"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+humandate: "July 15-19, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "Monday July 15th 12:00 pm - Friday July 19th 12:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2019-07-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-07-19        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Allegra Via, Mateusz Kuzak, Fotis E. Psomopoulos"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+contact: ["allegra.via@uniroma1.it", "mateusz.kuzak@dtls.nl", "fpsom@certh.gr"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+etherpad: https://pad.carpentries.org/2019-06-03-elixir-athens-eie             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -47,6 +47,40 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
+
+<h2 id="certh">Sponsors</h2>
+This workshop is funded by ELIXIR. The "_ELIXIR-GR: Managing and Analysing Life Sciences Data_" project is co-financed by Greece and the European Union - European Regional Development Fund. _Disclaimer: This website and included materials reflect only the author’s view and the Research Executive Agency is not responsible for any use that may be made of the information it contains._
+
+<div class="sponsor-logos">
+  <a href="https://www.elixir-europe.org/" title="ELIXIR">
+    <img style="margin-right:50px" alt="ELIXIR" src="fig/ELIXIR-logo.png" width="120"/>
+  </a>
+  <a href="https://www.elixir-greece.org/" title="ELIXIR-GR">
+    <img style="margin-right:50px" alt="ELIXIR-GR" src="fig/ELIXIR-GR-Logo.png" width="120"/>
+  </a>
+  <a href="" title="Funding Institutions">
+    <img style="margin-right:50px" alt="Funders" src="fig/FundersLogos.png" width="400"/>
+  </a>
+</div>  
+
+Finally, this workshop is possible thanks to the collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
+
+<div class="partner-logos">
+  <a href="https://www.fleming.gr/" title="BSRC Alexander Fleming">
+    <img style="margin-right:50px" alt="FlemingGR" src="fig/Fleming-Logo.png" width="150"/>
+  </a>
+  <a href="https://www.athenarc.gr/" title="Athena Research Center">
+    <img style="margin-right:50px" alt="AthenaRC" src="fig/Athena_Compact_EN.png" width="150"/>
+  </a>
+  <a href="https://www.certh.gr" title="CERTH, Greece">
+    <img style="margin-right:50px" alt="CERTH" src="fig/certh.jpg" width="150"/>
+  </a>
+  <a href="http://inab.certh.gr" title="INAB|CERTH, Greece">
+    <img style="margin-right:50px" alt="INAB" src="fig/INAB-logo.png" width="150"/>
+  </a>
+</div>
+
+
 <h2 id="general">General Information</h2>
 
 <!--
@@ -69,7 +103,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <p>
   <a href="{{ site.swc_site }}">Software Carpentry</a>,
-  <a href="{{ site.dc_site }}">Data Carpentry</a>, and 
+  <a href="{{ site.dc_site }}">Data Carpentry</a>, and
   <a href="{{ site.lc_site }}">Library Carpentry</a>'s mission is to
   help scientists, researchers, and librarians get more research done in less time
   and with less pain by teaching them basic lab skills for scientific
@@ -190,7 +224,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <li><a href="{{ site.dc_site }}/lessons">Data Carpentry Lessons</a></li>
   <li><a href="{{ site.lc_site }}/lessons">Library Carpentry Lessons</a></li>
   </ul>
-  
+
 
 <hr/>
 
@@ -217,8 +251,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 
 <hr/>
-
-<!--
 
 <div class="row">
   <div class="col-md-6">
@@ -257,8 +289,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </table>
   </div>
 </div>
-
--->
 
 <!--
   ETHERPAD
