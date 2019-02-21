@@ -90,6 +90,8 @@ Finally, this workshop is possible thanks to the collaboration of the following 
   the pitch.
 -->
 
+<h3 id="general">Carpentry Instructor Training</h3>
+
 <p>
   The course is aimed at everyone who is
   interested in becoming a better teacher. In particular, this training
@@ -120,6 +122,21 @@ Finally, this workshop is possible thanks to the collaboration of the following 
   teaching that. This workshop is based on the constantly revised and
   updated
  <a href="{{ site.training_site }}">curriculum</a>.
+</p>
+
+<h3 id="general">4 Simple recommendations for Open Source Software</h3>
+
+<p>
+  The aim of this lesson is to provide practical suggestions
+  that contribute to making research software and its source code
+  more discoverable, reusable and transparent. After the introduction,
+  the following episodes of this lesson are structured in the form of
+  one episode per recommendation. Hence the name four open source
+  software recommendations
+</p>
+
+<p>
+  The content of this workshop is available <a href="https://softdev4research.github.io/4OSS-lesson/">here</a>.
 </p>
 
 <!--
