@@ -288,6 +288,57 @@ Finally, this workshop is possible thanks to the collaboration of the following 
       <tr> <td>16:45</td> <td>Finish </td> </tr>
     </table>
   </div>
+  <div class="col-md-6">
+    <h3>Day 2</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
+      <tr> <td>09:10</td> <td>Building Teaching Skill: Lesson Study </td> </tr>
+      <tr> <td>10:05</td> <td>Building Teaching Skill: Live Coding </td> </tr>
+      <tr> <td>11:05</td> <td>Morning Coffee </td> </tr>
+      <tr> <td>11:20</td> <td>Building Teaching Skill: Performance Revised </td> </tr>
+      <tr> <td>12:00</td> <td>Lunch </td> </tr>
+      <tr> <td>13:00</td> <td>The Carpentries: Workshop Introductions </td> </tr>
+      <tr> <td>14:10</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td>15:15</td> <td>Afternoon Coffee </td> </tr>
+      <tr> <td>15:30</td> <td>The Carpentries: Teaching Practices </td> </tr>
+      <tr> <td>16:00</td> <td>Afternoon Wrap-Up </td> </tr>
+      <tr> <td>16:45</td> <td>Finish </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 2</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
+      <tr> <td>09:10</td> <td>Building Teaching Skill: Lesson Study </td> </tr>
+      <tr> <td>10:05</td> <td>Building Teaching Skill: Live Coding </td> </tr>
+      <tr> <td>11:05</td> <td>Morning Coffee </td> </tr>
+      <tr> <td>11:20</td> <td>Building Teaching Skill: Performance Revised </td> </tr>
+      <tr> <td>12:00</td> <td>Lunch </td> </tr>
+      <tr> <td>13:00</td> <td>The Carpentries: Workshop Introductions </td> </tr>
+      <tr> <td>14:10</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td>15:15</td> <td>Afternoon Coffee </td> </tr>
+      <tr> <td>15:30</td> <td>The Carpentries: Teaching Practices </td> </tr>
+      <tr> <td>16:00</td> <td>Afternoon Wrap-Up </td> </tr>
+      <tr> <td>16:45</td> <td>Finish </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 2</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
+      <tr> <td>09:10</td> <td>Building Teaching Skill: Lesson Study </td> </tr>
+      <tr> <td>10:05</td> <td>Building Teaching Skill: Live Coding </td> </tr>
+      <tr> <td>11:05</td> <td>Morning Coffee </td> </tr>
+      <tr> <td>11:20</td> <td>Building Teaching Skill: Performance Revised </td> </tr>
+      <tr> <td>12:00</td> <td>Lunch </td> </tr>
+      <tr> <td>13:00</td> <td>The Carpentries: Workshop Introductions </td> </tr>
+      <tr> <td>14:10</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td>15:15</td> <td>Afternoon Coffee </td> </tr>
+      <tr> <td>15:30</td> <td>The Carpentries: Teaching Practices </td> </tr>
+      <tr> <td>16:00</td> <td>Afternoon Wrap-Up </td> </tr>
+      <tr> <td>16:45</td> <td>Finish </td> </tr>
+    </table>
+  </div>
 </div>
 
 <!--
