@@ -259,7 +259,7 @@ Finally, this workshop is possible thanks to the collaboration of the following 
 <h3 id ="post_workshop_survey">Post-training survey</h3>
 
 <p>
-  After attending the workshop, please fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}"> our post-training survey</a>
+  After attending the workshop, please fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}"> our post-training survey</a> as well as the <a href="https://www.surveymonkey.co.uk/r/B87TWBF">ELIXIR post-workshop survey</a> 
 </p>
 
 
