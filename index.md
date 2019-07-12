@@ -14,7 +14,7 @@ enddate: 2019-07-19        # machine-readable end date for the workshop in YYYY-
 instructor: ["Allegra Via, Mateusz Kuzak, Fotis E. Psomopoulos"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["allegra.via@uniroma1.it", "mateusz.kuzak@dtls.nl", "fpsom@certh.gr"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad: https://pad.carpentries.org/2019-06-03-elixir-athens-eie             # optional: URL for the workshop Etherpad if there is one
+etherpad: https://docs.google.com/document/d/14zfwwqanulbhYV0nAoIlANoIzamAm1UG1Xs-Mg6DrcA/edit             # optional: URL for the workshop Etherpad if there is one
 eventbrite: 58011382607    # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -327,18 +327,18 @@ Finally, this workshop is possible thanks to the collaboration of the following 
   <div class="col-md-6">
     <h3>Day 4</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome back </td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>09:00</td> <td>Welcome to the 4OSS workshop</td> </tr>
+      <tr> <td>09:10</td> <td>Introduction</td> </tr>
+      <tr> <td>09:30</td> <td>Make source code publicly accessible from day one</td> </tr>
       <tr> <td>11:00</td> <td>Morning Coffee </td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>11:15</td> <td>Make source code publicly accessible from day one (cont'd)</td> </tr>
+      <tr> <td>11:30</td> <td>Adopt a licence and comply with the licence of third-party dependencies</td> </tr>
       <tr> <td>12:30</td> <td>Lunch </td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>13:30</td> <td>Adopt a licence (cont'd)</td> </tr>
+      <tr> <td>14:00</td> <td>Define clear and transparent contribution, governance and communication processes</td> </tr>
       <tr> <td>15:30</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>15:45</td> <td>Make software easy to discover by providing software metadata via a popular community registry</td> </tr>
+      <tr> <td>16:45</td> <td>Discussion</td> </tr>
       <tr> <td>17:00</td> <td>Finish </td> </tr>
     </table>
   </div>
@@ -350,11 +350,11 @@ Finally, this workshop is possible thanks to the collaboration of the following 
     <h3>Day 5</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Welcome back</td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>09:10</td> <td>Outline of the day</td> </tr>
+      <tr> <td>09:20</td> <td>Discussion on Software Management Plans</td> </tr>
       <tr> <td>11:00</td> <td>Morning Coffee </td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
-      <tr> <td>.....</td> <td>.........</td> </tr>
+      <tr> <td>11:15</td> <td>Discussion (cont'd)</td> </tr>
+      <tr> <td>11:45</td> <td>Wrap-up and road ahead</td> </tr>
       <tr> <td>12:00</td> <td>Finish </td> </tr>
     </table>
   </div>
